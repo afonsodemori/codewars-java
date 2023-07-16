@@ -14,7 +14,7 @@ that detects the user's location, so this is an easy win.
 
 ## The Database
 
-```json
+```
 english: "Welcome",
 czech: "Vitejte",
 danish: "Velkomst",
