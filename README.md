@@ -1,4 +1,4 @@
-![Codewars](/resources/codewars.png "Codewars - Achieve mastery through challenge")
+[![Codewars](/resources/codewars.png "Codewars - Achieve mastery through challenge")](https://www.codewars.com/)
 
 **[Codewars](https://www.codewars.com/)** is an educational community for computer programming.
 
@@ -10,4 +10,4 @@ Profile: https://www.codewars.com/users/afonso.dev
 
 ## Challenges by level
 
-* [8kyu _(1 chanllenge)_](/kyu8.md)
+* [8kyu _(1 challenge)_](/8kyu.md)
