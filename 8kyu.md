@@ -1,6 +1,29 @@
+# `8kyu` `c004` Area or Perimeter
+
+You are given the `length` and `width` of a 4-sided polygon. The polygon can either be a rectangle or a square.
+If it is a square, return its area. If it is a rectangle, return its perimeter.
+
+**Example(Input1, Input2 --> Output):**
+
+```
+6, 10 --> 32
+3, 3 --> 9
+```
+
+**Note:** for the purposes of this kata you will assume that it is a square if its `length` and `width` are equal, otherwise
+it is a rectangle.
+
+### Solution
+
+https://github.com/afonsodemori/codewars-java/blob/main/src/dev/afonso/codewars/java/kyu8/c004/Solution.java
+
+---
+
 # `8kyu` `c003` Triple Trouble
 
-Create a function that will return a string that combines all of the letters of the three inputed strings in groups. Taking the first letter of all of the inputs and grouping them next to each other. Do this for every letter, see example below!
+Create a function that will return a string that combines all of the letters of the three inputed strings in groups.
+Taking the first letter of all of the inputs and grouping them next to each other. Do this for every letter, see example
+below!
 
 **E.g. Input: "aa", "bb" , "cc" => Output: "abcabc"**
 
@@ -87,6 +110,7 @@ IP_ADDRESS_INVALID - not a valid ipv4 or ipv6 ip address
 IP_ADDRESS_NOT_FOUND - ip address not in the database
 IP_ADDRESS_REQUIRED - no ip address was supplied
 ```
+
 ### Solution
 
 https://github.com/afonsodemori/codewars-java/blob/main/src/dev/afonso/codewars/java/kyu8/c001/Welcome.java
