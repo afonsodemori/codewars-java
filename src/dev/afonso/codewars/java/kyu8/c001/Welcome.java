@@ -1,9 +1,12 @@
-package dev.afonso.codewars.java.kyu8;
+package dev.afonso.codewars.java.kyu8.c001;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class c001_Welcome {
+/**
+ * Solves the challenge <a href="/codewars-java/blob/main/8kyu.md#8kyu-c001-welcome">Welcome!</a>
+ */
+public class Welcome {
 
     public static final String DEFAULT_LANGUAGE = "english";
 

@@ -41,3 +41,6 @@ IP_ADDRESS_INVALID - not a valid ipv4 or ipv6 ip address
 IP_ADDRESS_NOT_FOUND - ip address not in the database
 IP_ADDRESS_REQUIRED - no ip address was supplied
 ```
+## Solution
+
+[/src/dev/afonso/codewars/java/kyu8/c001/Welcome.java]()
