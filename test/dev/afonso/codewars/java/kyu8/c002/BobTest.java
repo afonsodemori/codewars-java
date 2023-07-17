@@ -1,6 +1,5 @@
 package dev.afonso.codewars.java.kyu8.c002;
 
-import dev.afonso.codewars.java.kyu8.c002.Bob;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
