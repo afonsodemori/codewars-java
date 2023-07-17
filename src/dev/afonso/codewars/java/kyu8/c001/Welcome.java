@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Solves the challenge <a href="/codewars-java/blob/main/8kyu.md#8kyu-c001-welcome">Welcome!</a>
+ * Solves the challenge <a href="https://github.com/afonsodemori/codewars-java/blob/main/8kyu.md#8kyu-c001-welcome">Welcome!</a>
  */
 public class Welcome {
 

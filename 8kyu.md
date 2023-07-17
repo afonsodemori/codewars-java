@@ -23,6 +23,10 @@ cap = 10, on = 5, wait = 5 --> 0 # He can fit all 5 passengers
 cap = 100, on = 60, wait = 50 --> 10 # He can't fit 10 of the 50 waiting
 ```
 
+## Solution
+
+https://github.com/afonsodemori/codewars-java/blob/main/src/dev/afonso/codewars/java/kyu8/c002/Bob.java
+
 ---
 
 # `8kyu` `c001` Welcome!
@@ -70,4 +74,4 @@ IP_ADDRESS_REQUIRED - no ip address was supplied
 ```
 ## Solution
 
-[/src/dev/afonso/codewars/java/kyu8/c001/Welcome.java]()
+https://github.com/afonsodemori/codewars-java/blob/main/src/dev/afonso/codewars/java/kyu8/c001/Welcome.java

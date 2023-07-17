@@ -1,7 +1,7 @@
 package dev.afonso.codewars.java.kyu8.c002;
 
 /**
- * Solves the challenge <a href="">Will there be enough space?</a>
+ * Solves the challenge <a href="https://github.com/afonsodemori/codewars-java/blob/main/8kyu.md#8kyu-c002-will-there-be-enough-space">Will there be enough space?</a>
  */
 public class Bob {
     /**
