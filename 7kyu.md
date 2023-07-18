@@ -22,6 +22,8 @@ Example: (**input --> output**)
 
 https://github.com/afonsodemori/codewars-java/blob/main/src/dev/afonso/codewars/java/kyu7/c006/DnaStrand.java
 
+---
+
 # `7kyu` `c005` Visible Dots On a Die
 
 Your task is to return the number of visible dots on a die after it has been rolled (that means the total count of dots
