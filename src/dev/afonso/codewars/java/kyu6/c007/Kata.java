@@ -3,7 +3,7 @@ package dev.afonso.codewars.java.kyu6.c007;
 import java.util.stream.IntStream;
 
 /**
- * Solves the challenge <a href="https://github.com/afonsodemori/codewars-java/blob/main/7kyu.md#6kyu-c007-create-phone-number">Create Phone Number</a>
+ * Solves the challenge <a href="https://github.com/afonsodemori/codewars-java/blob/main/6kyu.md#6kyu-c007-create-phone-number">Create Phone Number</a>
  */
 public class Kata {
     public static String createPhoneNumber(int[] numbers) {
