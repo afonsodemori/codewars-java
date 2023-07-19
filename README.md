@@ -10,5 +10,6 @@ Profile: https://www.codewars.com/users/afonso.dev
 
 ## Challenges by level
 
+* [6kyu _(1 challenge)_](/6kyu.md)
 * [7kyu _(2 challenges)_](/7kyu.md)
 * [8kyu _(4 challenges)_](/8kyu.md)
